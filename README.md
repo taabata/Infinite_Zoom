@@ -2,8 +2,5 @@
 
 Open colab to use
 
-Original notebook [![Open In Colab][colab-badge]][colab-notebook]
+[Colab] https://colab.research.google.com/#scrollTo=pCA_jFNnxur4
 
-New simplified notebook [![Open In Colab][colab-badge]][colab-notebook-2]
-
-[colab-notebook]: <https://colab.research.google.com/drive/1FoHdqoqKntliaQKnMoNs3yn5EALqWtvP>
